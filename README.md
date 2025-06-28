@@ -108,5 +108,5 @@ Switching between OpenAI and Azure is a one‑line change in `backend/main.py`�
 
 ## 📄 License
 
-MIT © 2025 Your Name. Feel free to fork and build bigger things. 🚀
+MIT © 2025 Saksham. Feel free to fork and build bigger things. 🚀
 
